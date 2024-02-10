@@ -64,7 +64,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Author
+## Author
 This project was authored by Abu Talha. You can contact me at abutalha@example.com.
 
 Thank you for using Hello Rails Back-End! Happy coding! 🚀
