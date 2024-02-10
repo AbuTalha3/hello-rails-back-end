@@ -2,7 +2,7 @@
 Introduction
 Hello Rails Back-End is a simple Rails application for demonstrating basic CRUD operations (Create, Read, Update, Delete) using a RESTful API approach. This application serves as a starting point for developers who want to learn how to build back-end services using Ruby on Rails.
 
-Features
+### Features
 CRUD operations for managing posts.
 RESTful API endpoints for interacting with posts.
 Basic authentication for creating, updating, and deleting posts.
