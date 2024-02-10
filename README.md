@@ -66,7 +66,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 This project was authored by `Abu Talha`. 
+👤 Abu Talha
 
+- GitHub: [@githubhandle](https://github.com/AbuTalha3)
+- Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-8203b252/)
 ## Contact
 You can contact me at abutalha@example.com.
 
