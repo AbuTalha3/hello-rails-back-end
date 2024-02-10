@@ -61,7 +61,7 @@ The above example is base64 encoding of Abu:Test123.
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
