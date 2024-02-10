@@ -53,3 +53,18 @@ Copy code
 Authorization: Basic base64(username:password)
 Replace base64(username:password) with your base64-encoded username and password. For example:
 
+makefile
+Copy code
+Authorization: Basic QWJ1OnRlc3QxMjM=
+The above example is base64 encoding of Abu:Test123.
+
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Author
+This project was authored by Abu Talha. You can contact me at abutalha@example.com.
+
+Thank you for using Hello Rails Back-End! Happy coding! 🚀
