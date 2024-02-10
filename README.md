@@ -56,7 +56,7 @@ Replace base64(username:password) with your base64-encoded username and password
 makefile
 Copy code
 Authorization: Basic QWJ1OnRlc3QxMjM=
-The above example is base64 encoding of Abu:Test123.
+The above example is base64 encoding of Abu: Test123.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
