@@ -10,7 +10,7 @@ JSON responses for API endpoints.
 Setup
 Follow these steps to set up the Hello Rails Back-End application:
 
-Clone the repository:
+## Clone the repository:
 
 bash
 Copy code
